@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Coding-ninja-clone/static/css/main.78ca42dd.css",
+    "main.js": "/Coding-ninja-clone/static/js/main.6b289b77.js",
+    "index.html": "/Coding-ninja-clone/index.html",
+    "main.78ca42dd.css.map": "/Coding-ninja-clone/static/css/main.78ca42dd.css.map",
+    "main.6b289b77.js.map": "/Coding-ninja-clone/static/js/main.6b289b77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78ca42dd.css",
+    "static/js/main.6b289b77.js"
+  ]
+}
